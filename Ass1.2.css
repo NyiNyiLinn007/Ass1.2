@@ -1,0 +1,21 @@
+.card {
+    width: 200px;
+    margin: 200px;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: white;
+    font-size: 22px;
+  }
+ div{
+    background-color: rgb(51, 238, 92);
+  }
+  .checked {
+    color: rgb(86, 29, 218);
+  }
+
+body{
+    background-color: gray;
+}
